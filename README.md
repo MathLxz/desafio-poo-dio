@@ -1,1 +1,1 @@
-Resosulção do desafio de projeto proposto na trilha de .NET da DIO.
+Resolução do desafio de projeto proposto na trilha de .NET da DIO.
